@@ -6,8 +6,8 @@ def connectx():
             host = '127.0.0.1',
             port=3306,
             user='root',
-            password='lesson1run',
-            database='grafic',
+            password='*******',
+            database='*******',
             cursorclass=pymysql.cursors.DictCursor
 
         )
