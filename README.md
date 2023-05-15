@@ -13,5 +13,3 @@ Plotly diagram
 <h3>Вид MatPlotlib графика</h3></br>
 MathPlotlib diagram
 <img src='intro3.png'>
-<h3>Проект небольшой но его можно легко дополнить разными видами графиков.Проект был создан для портфолио Python Junior
-разработчика т.е меня :/</h3>
